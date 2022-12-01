@@ -16,7 +16,7 @@ typedef vector<lli> vi;
 lli n, arr[100001], r = 0; 
 double c1, c2, c3, c4; 
 int main() {
-  c1 = c2 = c3 = c4 = 0;
+        c1 = c2 = c3 = c4 = 0;
 	cin >> n;
 	fore (i, 0 , n) {
 		cin >> arr[i];
