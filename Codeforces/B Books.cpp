@@ -8,7 +8,7 @@
 #define sz(s) int(s.size())
 #define ENDL '\n'
 #define pot(a) ((a)*(a))
-using namespace std;
+using namespace std; 
 typedef long double ld;
 typedef long long lli;
 typedef pair<lli,lli> ii;
