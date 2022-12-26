@@ -18,10 +18,10 @@ int main () { _
     cin >> a >> b >> c;
     r = a + b + c;
     r = max(r, a *(b + c));
-	r = max(r, (a * b * c));
+    r = max(r, (a * b * c));
     r = max(r, (a * b) + c);
-	r = max(r, (a + b) * c);
-	r = max(r, a + (b * c ));
+    r = max(r, (a + b) * c);
+    r = max(r, a + (b * c ));
     cout << r << ENDL;
     return 0;  
 }
