@@ -18,7 +18,6 @@ int main() { _
   cin >> t;
   while (t--) {
     cin >> n;
-
     while(true) {
       string nStr = to_string(n);
       bool fa = true;
