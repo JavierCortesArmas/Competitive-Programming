@@ -13,7 +13,7 @@ typedef long double ld;
 typedef long long lli;
 typedef pair<lli,lli> ii;
 typedef vector<lli> vi;
-int n, k, le, ce, d, p, nl, np;
+lli n, k, le, ce, d, p, nl, np;
 int main() { _ 
   cin >> n >> k >> le >> ce >> d >> p >> nl >> np;
   c << min(min(k * le / nl, ce * d), p / np) / n << l; 
