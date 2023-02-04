@@ -19,4 +19,3 @@ int main() { _
   c << min(min(k * le / nl, ce * d), p / np) / n << l; 
   return 0;
 }
-
